@@ -1,0 +1,27 @@
+.nav-bar{
+    padding: 20px;
+    background-color: darkcyan;
+  }
+  
+  .nav-bar > ul {
+    display: flex;
+    list-style-type: none;
+  }
+  
+  .nav-bar > ul > li {
+    padding: 8px;
+    margin-right: 1rem;
+    border: 2px solid #fff;
+    border-radius: 4px;
+  }
+  
+  .nav-bar a{
+    color: #fff;
+    text-decoration: none;
+   
+  }
+
+  .contact-book{
+      
+      background-color: #40b5b5;
+  }
